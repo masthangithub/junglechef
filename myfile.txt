@@ -1,7 +1,0 @@
-This is the text file about learining git.
-Ramesh
-krishna
-venkat 
-prasad
-
-
